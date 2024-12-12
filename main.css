@@ -37,6 +37,10 @@ color: orange;
 font-weight: bold;
 }
 
+p.credit {
+
+font-size:10px;
+}
 h3{
 	font-family: "Gill Sans Extrabold";
 font-size: 42px;
